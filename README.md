@@ -98,7 +98,7 @@ Where:
 
 ## 📝 Citation
 
-Our paper "MOTTO: A Mixture-of-Experts Framework for Multi-Treatment, Multi-Outcome Treatment Effect Estimation" is accepted at KDD 2025 Research Track. If you use this implementation in your research, please cite our work:
+Our paper "MOTTO: A Mixture-of-Experts Framework for Multi-Treatment, Multi-Outcome Treatment Effect Estimation" is accepted at KDD 2025 Research Track. If you use this implementation in your research, please cite our work.
 > 
 
 ## License
