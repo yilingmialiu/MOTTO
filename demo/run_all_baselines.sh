@@ -56,12 +56,6 @@ echo "-----------------------------------------------------"
 python $BASE_DIR/baselines_MTML_Tlearner.py
 
 echo ""
-echo "----------------------------------------------------------"
-echo "Running MTML VanillaMoE ($BASE_DIR/baselines_MTML_VanillaMoE.py)..."
-echo "----------------------------------------------------------"
-python $BASE_DIR/baselines_MTML_VanillaMoE.py
-
-echo ""
 echo "==================================================="
 echo "All Synthetic Baseline Experiments Completed."
 echo "===================================================" 
